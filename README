@@ -1,0 +1,5 @@
+To run:
+
+From the root, type 'mvn package'
+And then:
+java -jar ./target/notes-rest-service-<version>.jar
